@@ -1,7 +1,7 @@
 
 STEP 1:
 
-cd C:\Users\VANSH\OneDrive\Desktop\vansh\resume projects\opencv
+cd Desktop/rover_climb
 
 STEP 2:
 
