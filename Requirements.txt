@@ -1,0 +1,11 @@
+
+STEP 1:
+
+cd C:\Users\VANSH\OneDrive\Desktop\vansh\resume projects\opencv
+
+STEP 2:
+
+.\rover311_env\Scripts\Activate.ps1
+
+STEP 3:
+python rover_climb.py
